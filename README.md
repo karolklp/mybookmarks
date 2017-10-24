@@ -7,6 +7,7 @@ My Bookmarks
 * Steve about innovation today https://www.youtube.com/watch?v=n2UU3pOE0WY + http://www.bradfordcross.com/blog/2017/6/13/vertical-ai-startups-solving-industry-specific-problems-by-combining-ai-and-subject-matter-expertise
 * Why remote sucks? Great article https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BfxdKcSTTpDg4epH5vVWUXA%3D%3D
 * Intro to AI https://hackernoon.com/how-i-started-with-learning-ai-in-the-last-2-months-251d19b23597
+* Engineering manager resources https://github.com/ryanburgess/engineer-manager
 
 ### Conferences:
 * The best conf I've been https://trib.tv/2017/08/16/better-developer-conferences/
