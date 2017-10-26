@@ -8,6 +8,7 @@ My Bookmarks
 * Why remote sucks? Great article https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BfxdKcSTTpDg4epH5vVWUXA%3D%3D
 * Intro to AI https://hackernoon.com/how-i-started-with-learning-ai-in-the-last-2-months-251d19b23597
 * Engineering manager resources https://github.com/ryanburgess/engineer-manager
+* Machine Learning path https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 ### Conferences:
 * The best conf I've been https://trib.tv/2017/08/16/better-developer-conferences/
