@@ -15,3 +15,6 @@ My Bookmarks
 
 ### Politics 
 * Yuval on nationalism vs globalism https://www.ted.com/talks/yuval_noah_harari_nationalism_vs_globalism_the_new_political_divide
+
+### Econo
+* Clayton on disruption https://www.youtube.com/watch?v=rpkoCZ4vBSI
